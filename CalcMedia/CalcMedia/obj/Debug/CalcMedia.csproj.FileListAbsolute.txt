@@ -1,0 +1,11 @@
+C:\Users\5011370\Desktop\Anderson\Arquivos a salvar\ANDERSON\PROGRAMAÇÃO\Alura\Curso C#\C#-Orientação a Objetos1\CalcMedia\CalcMedia\bin\Debug\CalcMedia.exe.config
+C:\Users\5011370\Desktop\Anderson\Arquivos a salvar\ANDERSON\PROGRAMAÇÃO\Alura\Curso C#\C#-Orientação a Objetos1\CalcMedia\CalcMedia\bin\Debug\CalcMedia.exe
+C:\Users\5011370\Desktop\Anderson\Arquivos a salvar\ANDERSON\PROGRAMAÇÃO\Alura\Curso C#\C#-Orientação a Objetos1\CalcMedia\CalcMedia\bin\Debug\CalcMedia.pdb
+C:\Users\5011370\Desktop\Anderson\Arquivos a salvar\ANDERSON\PROGRAMAÇÃO\Alura\Curso C#\C#-Orientação a Objetos1\CalcMedia\CalcMedia\obj\Debug\CalcMedia.csproj.AssemblyReference.cache
+C:\Users\5011370\Desktop\Anderson\Arquivos a salvar\ANDERSON\PROGRAMAÇÃO\Alura\Curso C#\C#-Orientação a Objetos1\CalcMedia\CalcMedia\obj\Debug\CalcMedia.csproj.SuggestedBindingRedirects.cache
+C:\Users\5011370\Desktop\Anderson\Arquivos a salvar\ANDERSON\PROGRAMAÇÃO\Alura\Curso C#\C#-Orientação a Objetos1\CalcMedia\CalcMedia\obj\Debug\CalcMedia.Form1.resources
+C:\Users\5011370\Desktop\Anderson\Arquivos a salvar\ANDERSON\PROGRAMAÇÃO\Alura\Curso C#\C#-Orientação a Objetos1\CalcMedia\CalcMedia\obj\Debug\CalcMedia.Properties.Resources.resources
+C:\Users\5011370\Desktop\Anderson\Arquivos a salvar\ANDERSON\PROGRAMAÇÃO\Alura\Curso C#\C#-Orientação a Objetos1\CalcMedia\CalcMedia\obj\Debug\CalcMedia.csproj.GenerateResource.cache
+C:\Users\5011370\Desktop\Anderson\Arquivos a salvar\ANDERSON\PROGRAMAÇÃO\Alura\Curso C#\C#-Orientação a Objetos1\CalcMedia\CalcMedia\obj\Debug\CalcMedia.csproj.CoreCompileInputs.cache
+C:\Users\5011370\Desktop\Anderson\Arquivos a salvar\ANDERSON\PROGRAMAÇÃO\Alura\Curso C#\C#-Orientação a Objetos1\CalcMedia\CalcMedia\obj\Debug\CalcMedia.exe
+C:\Users\5011370\Desktop\Anderson\Arquivos a salvar\ANDERSON\PROGRAMAÇÃO\Alura\Curso C#\C#-Orientação a Objetos1\CalcMedia\CalcMedia\obj\Debug\CalcMedia.pdb
