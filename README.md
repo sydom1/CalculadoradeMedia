@@ -1,5 +1,7 @@
 # CalculadoradeMedia
 Calculadora de Media no Win. Form
+{
+
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -70,4 +72,5 @@ namespace CalcMedia
             }
         }
     }
+}
 }
