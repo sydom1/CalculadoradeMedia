@@ -35,7 +35,7 @@ namespace CalcMedia
                 media = soma / 4;
                 this.Controls["label7"].Text = media.ToString();
 
-                if (media >= 7) 
+                if (media >= 7 && media < 10) 
                 {
                     this.Controls["label8"].Text = media.ToString("APROVADO");
                 }
@@ -45,9 +45,14 @@ namespace CalcMedia
                     this.Controls["label8"].Text = media.ToString("RECUPERAÇÃO");
                 }
 
-                else
+                else if (media < 5 && media >=0 )
                 {
                     this.Controls["label8"].Text = media.ToString("REPROVADO");
+                }
+
+                else
+                {
+                    this.Controls["label8"].Text = media.ToString("VALOR INVALIDO");
                 }
             }
         }
@@ -66,6 +71,11 @@ namespace CalcMedia
                 this.Controls["label8"].Text = "...";
 
             }
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+           this.Close();
         }
     }
 }
